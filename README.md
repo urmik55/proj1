@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 
 ## Author
-Urmik Kanjaria (191887)
+Urmik 
 ## Introduction
 This project aims to design and implement a real-time analytical platform to monitor air traffic in Poland. The project uses data from the AviationStack API, which provides real-time flight information, including flight schedules, flight status, and flight tracking.
 
