@@ -1,5 +1,5 @@
 
-# Intelligence Measurement System Project-Real-time Air Traffic Monitoring Platform
+# Real-time Air Traffic Monitoring Platform
 
 A brief description of what this project does and who it's for
 
